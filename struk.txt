@@ -1,0 +1,83 @@
+
+==============================
+STRUK PEMBELIAN (24-10-2025 13:06:11)
+==============================
+Teh Botol x1 = Rp7000
+Air Mineral x1 = Rp5000
+Teh Botol x1 = Rp7000
+TOTAL : Rp19000
+DIBAYAR: Rp20000
+KEMBALIAN: Rp1000
+==============================
+
+
+==============================
+STRUK PEMBELIAN (24-10-2025 13:07:28)
+==============================
+Kopi Susu x1 = Rp8000
+Kopi Susu x1 = Rp8000
+Kopi Susu x1 = Rp8000
+Kopi Susu x1 = Rp8000
+Kopi Susu x1 = Rp8000
+Diskon tambahan pembayaran: -10%
+TOTAL : Rp36000
+DIBAYAR: Rp40000
+KEMBALIAN: Rp4000
+==============================
+
+
+==============================
+STRUK PEMBELIAN (24-10-2025 13:13:18)
+==============================
+Teh Botol x3 = Rp21000
+Teh Botol x3 = Rp21000
+Diskon tambahan pembayaran: -10%
+TOTAL : Rp37800
+DIBAYAR: Rp38000
+KEMBALIAN: Rp0
+==============================
+
+
+==============================
+STRUK PEMBELIAN (20-11-2025 12:51:10)
+==============================
+Air Mineral x2 = Rp10000
+Teh Botol x1 = Rp4900
+TOTAL : Rp14900
+DIBAYAR: Rp15000
+KEMBALIAN: Rp0
+==============================
+
+
+==============================
+STRUK PEMBELIAN (20-11-2025 14:09:25)
+==============================
+Teh Botol x1 = Rp7000
+Coklat Bar x1 = Rp6000
+TOTAL : Rp13000
+DIBAYAR: Rp15000
+KEMBALIAN: Rp2000
+==============================
+
+
+==============================
+STRUK PEMBELIAN (21-11-2025 14:09:47)
+==============================
+iPhone x3 = Rp48000000
+Diskon tambahan pembayaran: -10%
+TOTAL : Rp43200000
+DIBAYAR: Rp43200000
+KEMBALIAN: Rp0
+==============================
+
+
+==============================
+STRUK PEMBELIAN (22-11-2025 23:49:08)
+==============================
+iPhone x2 = Rp32000000
+Diskon tambahan pembayaran: -10%
+TOTAL : Rp28800000
+DIBAYAR: Rp30000000
+KEMBALIAN: Rp1200000
+==============================
+
